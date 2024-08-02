@@ -5,6 +5,7 @@
   "type": "module",
   "homepage": "https://victorCodes4Real.github.io/Gemini-clone/",
   "scripts": {
+    "start": "vite start",
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
